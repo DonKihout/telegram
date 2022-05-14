@@ -1,0 +1,6 @@
+telegram_bot\CreateWord.class
+telegram_bot\service\SendMessageService.class
+telegram_bot\service\ButtonsService.class
+telegram_bot\Spmi.class
+telegram_bot\constant\VarConstasnt.class
+telegram_bot\core\Core.class
