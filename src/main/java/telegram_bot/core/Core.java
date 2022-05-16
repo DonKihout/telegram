@@ -24,7 +24,7 @@ public class Core extends TelegramLongPollingBot {
     private CreateWord createWord = new CreateWord();
     private int code;
     private Set<String> users = new HashSet<>();
-    private final String adminChatId = "419065441";
+    private final String adminChatId = "********";
     private ArrayList<String> answers = new ArrayList<String>();
 
     @Override
