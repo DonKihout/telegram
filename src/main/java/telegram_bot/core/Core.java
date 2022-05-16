@@ -150,7 +150,7 @@ public class Core extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "5339683298:AAFA6YuASjCvIe2s6IPkjZCRZhfymF8hQTM";
+        return "*************************";
     }
 
 }
